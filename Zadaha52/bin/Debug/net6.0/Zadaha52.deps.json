@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zadaha52/1.0.0": {
+        "runtime": {
+          "Zadaha52.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadaha52/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
