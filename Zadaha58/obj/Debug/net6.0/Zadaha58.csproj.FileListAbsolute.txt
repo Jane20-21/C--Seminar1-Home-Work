@@ -1,0 +1,15 @@
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.csproj.AssemblyReference.cache
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.AssemblyInfoInputs.cache
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.AssemblyInfo.cs
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.csproj.CoreCompileInputs.cache
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\bin\Debug\net6.0\Zadaha58.exe
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\bin\Debug\net6.0\Zadaha58.deps.json
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\bin\Debug\net6.0\Zadaha58.runtimeconfig.json
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\bin\Debug\net6.0\Zadaha58.dll
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\bin\Debug\net6.0\Zadaha58.pdb
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.dll
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\refint\Zadaha58.dll
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.pdb
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\Zadaha58.genruntimeconfig.cache
+D:\Geek\Введение в C#\Семинары\Home work 1\Zadaha58\obj\Debug\net6.0\ref\Zadaha58.dll
